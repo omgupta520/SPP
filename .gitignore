@@ -4,3 +4,6 @@ venv/
 .venv/
 .vercel/
 .env
+
+.vercel
+.env*

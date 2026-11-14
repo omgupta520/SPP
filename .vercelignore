@@ -1,0 +1,8 @@
+data/raw/
+data/processed/
+scripts/
+screenshots/
+docs/
+test_pipeline.py
+__pycache__/
+*.pyc
